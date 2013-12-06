@@ -1,4 +1,4 @@
 *.jar
 *.deb
-Kibana*
-.vagrant*
+/Kibana/*
+/.vagrant/*
